@@ -1,0 +1,95 @@
+Study ID	ICI best response	PFS (days)	PFS (months)
+1	PD		
+2	PD		
+4	PD		
+5	PD	22	0,723287671
+6	SD		
+7	PR	274	9,008219178
+9	PD	56	1,84109589
+10	PD		
+11	NE		
+12	SD		
+13	PR		
+15	PD		
+16	PD		
+17	NE		
+18	PR		
+19	SD		
+20	PR		
+21	SD		
+23	PR		
+24	PD		
+25	PD		
+26	NE		
+27	SD		
+28	PD	87	2,860273973
+29	PR		
+31	PR	1365	44,87671233
+33	SD		
+34	PR		
+35	PD		
+36	PD	71	2,334246575
+37	NE		
+38	PD		
+40	PR		
+41	PR		
+42	PR	1259	41,39178082
+43	SD		
+45	SD		
+46	PD	93	3,057534247
+47	PD	95	3,123287671
+48	NE		
+50	PD		
+51	CR		
+52	NE		
+53	PD		
+54	PD		
+55	PD	61	2,005479452
+56	PD		
+58	PD		
+59	PR		
+60	PD		
+61	PR		
+62	PD		
+63	SD		
+64	PR		
+67	PD		
+69	PD		
+70	NE		
+71	SD		
+73	SD		
+74	SD		
+75	SD		
+76	PR		
+77	NE		
+78	PD		
+79	SD		
+80	SD		
+81	NE		
+82	PR		
+83	PR		
+85	SD		
+88	PR		
+90	NE		
+92	PR		
+93	SD		
+94	PR		
+95	PR		
+96	NE		
+97	PR		
+98	PD		
+99	PD		
+237	PD		
+253	NE		
+254	PD		
+255	PD		
+257	NE		
+387	PD		
+388	PD		
+390	PD		
+391	PD		
+427	PD		
+428	SD		
+473	CR		
+476	PR		
+495	PD		
